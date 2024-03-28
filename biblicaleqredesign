@@ -1,0 +1,96 @@
+<div style="width: 100%; height: 100%; padding-bottom: 451px; background: white; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+    <div style="width: 1440px; height: 64px; position: relative; background: #3B8ABF; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+        <div style="width: 35px; height: 35px; background: black; border-radius: 9999px"></div>
+        <div style="width: 82px; height: 26px; color: black; font-size: 16px; font-family: Roboto Condensed; font-weight: 700; word-wrap: break-word">CONTACT</div>
+        <div style="width: 52px; height: 26px; color: black; font-size: 16px; font-family: Roboto Condensed; font-weight: 700; word-wrap: break-word">HOME</div>
+        <div style="width: 57px; height: 26px; color: black; font-size: 16px; font-family: Roboto Condensed; font-weight: 700; word-wrap: break-word">BOOKS</div>
+        <div style="width: 101px; height: 26px; color: black; font-size: 16px; font-family: Roboto Condensed; font-weight: 700; word-wrap: break-word">RESOURCES</div>
+        <div style="width: 66px; height: 26px; color: black; font-size: 16px; font-family: Roboto Condensed; font-weight: 700; word-wrap: break-word">ABOUT</div>
+    </div>
+    <div style="width: 1440px; height: 753px; position: relative; background: #3B8ABF; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+        <div style="width: 389px; height: 637px; background: white"></div>
+        <img style="width: 389px; height: 247px" src="https://via.placeholder.com/389x247" />
+        <div style="width: 345px; height: 410px; background: #D9D9D9"></div>
+        <img style="width: 321px; height: 481px; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)" src="https://via.placeholder.com/321x481" />
+        <div style="width: 393px; height: 61px; color: black; font-size: 24px; font-family: Roboto Condensed; font-weight: 700; word-wrap: break-word">LATEST RELEASE BY JOHN EDMISTON</div>
+        <div style="width: 350px; height: 0px; border: 5px #6E5EC6 solid"></div>
+        <div style="width: 393px; height: 61px"><span style="color: black; font-size: 32px; font-family: Source Serif Pro; font-weight: 700; word-wrap: break-word">BIBLICAL EQ:</span><span style="color: black; font-size: 32px; font-family: Roboto Condensed; font-weight: 700; word-wrap: break-word"> Principles For Becoming An Emotionally Intelligent Christian</span></div>
+        <div style="width: 397px; color: black; font-size: 24px; font-family: Roboto Condensed; font-style: italic; font-weight: 400; word-wrap: break-word">Biblical EQ uses the Bible and especially the character of Jesus and the apostles - along with the best secular research - to show how we can become "emotionally intelligent" and be both spiritually and emotionally mature human beings.</div>
+        <div style="width: 163px; height: 51px; background: #6E5EC6"></div>
+        <div style="width: 163px; height: 51px; background: #6E5EC6"></div>
+        <div style="width: 80px; height: 26px; color: white; font-size: 16px; font-family: Roboto Condensed; font-weight: 700; word-wrap: break-word">ORDER NOW</div>
+        <div style="width: 89px; height: 26px; color: white; font-size: 16px; font-family: Roboto Condensed; font-weight: 700; word-wrap: break-word">LEARN MORE</div>
+    </div>
+    <div style="align-self: stretch; height: 753px; padding-top: 55px; padding-bottom: 110px; padding-left: 94px; padding-right: 83px; background: #BEB9B9; justify-content: flex-end; align-items: flex-start; gap: 480px; display: inline-flex">
+        <div style="width: 438px; height: 410px; background: #D9D9D9"></div>
+        <div style="width: 345px; height: 588px; background: #D9D9D9"></div>
+    </div>
+    <div style="width: 1440px; height: 1411px; position: relative; background: #BEB9B9; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+        <div style="width: 344px; height: 527px; background: #D9D9D9"></div>
+        <div style="width: 344px; height: 527px; background: #D9D9D9"></div>
+        <div style="width: 344px; height: 527px; background: #D9D9D9"></div>
+        <div style="width: 286px; height: 82px; position: relative">
+            <div style="width: 286px; height: 0px; left: 0px; top: 0px; position: absolute; border: 1px black solid"></div>
+            <div style="width: 286px; height: 0px; left: 0px; top: 0px; position: absolute; border: 6px black solid"></div>
+            <div style="width: 245px; height: 0px; left: 18px; top: 37px; position: absolute; border: 6px black solid"></div>
+            <div style="width: 135px; height: 0px; left: 81px; top: 81px; position: absolute; border: 6px black solid"></div>
+        </div>
+        <div style="width: 286px; height: 82px; position: relative">
+            <div style="width: 286px; height: 0px; left: 0px; top: 0px; position: absolute; border: 1px black solid"></div>
+            <div style="width: 286px; height: 0px; left: 0px; top: 0px; position: absolute; border: 6px black solid"></div>
+            <div style="width: 245px; height: 0px; left: 18px; top: 37px; position: absolute; border: 6px black solid"></div>
+            <div style="width: 135px; height: 0px; left: 81px; top: 81px; position: absolute; border: 6px black solid"></div>
+        </div>
+        <div style="width: 286px; height: 82px; position: relative">
+            <div style="width: 286px; height: 0px; left: 0px; top: 0px; position: absolute; border: 1px black solid"></div>
+            <div style="width: 286px; height: 0px; left: 0px; top: 0px; position: absolute; border: 6px black solid"></div>
+            <div style="width: 245px; height: 0px; left: 18px; top: 37px; position: absolute; border: 6px black solid"></div>
+            <div style="width: 135px; height: 0px; left: 81px; top: 81px; position: absolute; border: 6px black solid"></div>
+        </div>
+        <div style="width: 344px; height: 63px; background: #8F8383"></div>
+        <div style="width: 344px; height: 63px; background: #8F8383"></div>
+        <div style="width: 344px; height: 63px; background: #8F8383"></div>
+    </div>
+    <div style="align-self: stretch; height: 753px; padding-top: 377px; padding-bottom: 294px; padding-left: 102px; padding-right: 102px; background: #BEB9B9; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 1236px; height: 82px; position: relative; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+            <div style="width: 1236px; height: 0px; border: 1px black solid"></div>
+            <div style="width: 1236px; height: 0px; border: 6px black solid"></div>
+            <div style="width: 1058.81px; height: 0px; border: 6px black solid"></div>
+            <div style="width: 583.43px; height: 0px; border: 6px black solid"></div>
+        </div>
+    </div>
+    <div style="width: 1440px; height: 1411px; position: relative; background: #BEB9B9; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+        <div style="width: 344px; height: 527px; background: #D9D9D9"></div>
+        <div style="width: 344px; height: 527px; background: #D9D9D9"></div>
+        <div style="width: 344px; height: 527px; background: #D9D9D9"></div>
+        <div style="width: 286px; height: 82px; position: relative">
+            <div style="width: 286px; height: 0px; left: 0px; top: 0px; position: absolute; border: 1px black solid"></div>
+            <div style="width: 286px; height: 0px; left: 0px; top: 0px; position: absolute; border: 6px black solid"></div>
+            <div style="width: 245px; height: 0px; left: 18px; top: 37px; position: absolute; border: 6px black solid"></div>
+            <div style="width: 135px; height: 0px; left: 81px; top: 81px; position: absolute; border: 6px black solid"></div>
+        </div>
+        <div style="width: 286px; height: 82px; position: relative">
+            <div style="width: 286px; height: 0px; left: 0px; top: 0px; position: absolute; border: 1px black solid"></div>
+            <div style="width: 286px; height: 0px; left: 0px; top: 0px; position: absolute; border: 6px black solid"></div>
+            <div style="width: 245px; height: 0px; left: 18px; top: 37px; position: absolute; border: 6px black solid"></div>
+            <div style="width: 135px; height: 0px; left: 81px; top: 81px; position: absolute; border: 6px black solid"></div>
+        </div>
+        <div style="width: 286px; height: 82px; position: relative">
+            <div style="width: 286px; height: 0px; left: 0px; top: 0px; position: absolute; border: 1px black solid"></div>
+            <div style="width: 286px; height: 0px; left: 0px; top: 0px; position: absolute; border: 6px black solid"></div>
+            <div style="width: 245px; height: 0px; left: 18px; top: 37px; position: absolute; border: 6px black solid"></div>
+            <div style="width: 135px; height: 0px; left: 81px; top: 81px; position: absolute; border: 6px black solid"></div>
+        </div>
+        <div style="width: 344px; height: 63px; background: #8F8383"></div>
+        <div style="width: 344px; height: 63px; background: #8F8383"></div>
+        <div style="width: 344px; height: 63px; background: #8F8383"></div>
+    </div>
+    <div style="align-self: stretch; height: 753px; padding-top: 377px; padding-bottom: 294px; padding-left: 102px; padding-right: 102px; background: #BEB9B9; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 1236px; height: 82px; position: relative; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+            <div style="width: 1236px; height: 0px; border: 1px black solid"></div>
+            <div style="width: 1236px; height: 0px; border: 6px black solid"></div>
+            <div style="width: 1058.81px; height: 0px; border: 6px black solid"></div>
+            <div style="width: 583.43px; height: 0px; border: 6px black solid"></div>
+        </div>
+    </div>
+</div>
